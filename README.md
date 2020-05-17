@@ -17,3 +17,6 @@ Therminal is a beautiful, refined blurred-background theme for the macOS default
 2. Double-click `Therminal.terminal` file to open a new Terminal window.
 3. Choose Terminal \> Preferences, then click Profiles.
 4. Select the Therminal profile, then click the Default button under the profiles list.
+
+## License
+Therminal is released under the MIT license. See [LICENSE](/LICENSE) for details.
