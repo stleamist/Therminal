@@ -3,6 +3,21 @@
     <img src="/docs/images/therminal-logotype.svg">
 </p>
 
+<p align="center">
+    <a href="https://github.com/stleamist/Therminal/releases/latest">
+        <img src="https://img.shields.io/github/v/release/stleamist/Therminal?label=version" alt="version">
+    </a>
+    <a href="https://api.github.com/repos/stleamist/Therminal/releases">
+        <img src="https://img.shields.io/github/downloads/stleamist/Therminal/total" alt="downloads">
+    </a>
+    <a href="/LICENSE">
+        <img src="https://img.shields.io/github/license/stleamist/Therminal" alt="license">
+    </a>
+    <a href="https://twitter.com/stleamist">
+        <img src="https://img.shields.io/badge/contact-@stleamist-1da1f2" alt="contact: @stleamist">
+    </a>
+</p>
+
 # Therminal
 Therminal is a beautiful, refined blurred-background theme for the macOS default Terminal app. Inspired by [Verminal](https://github.com/defringe/verminal).
 
