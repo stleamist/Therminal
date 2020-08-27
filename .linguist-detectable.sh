@@ -1,0 +1,1 @@
+echo ".linguist-detectable.sh"
